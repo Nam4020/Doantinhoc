@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.exe
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.deps.json
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.runtimeconfig.json
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.dll
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\bin\Debug\netcoreapp3.1\Calculator__doAn.pdb
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.Form1.resources
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.dll
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.pdb
+C:\Users\Admin\source\repos\Calculator__doAn\Calculator__doAn\obj\Debug\netcoreapp3.1\Calculator__doAn.genruntimeconfig.cache
